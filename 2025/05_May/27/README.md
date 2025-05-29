@@ -1368,7 +1368,17 @@ Shop still closed
 
 **186**
 
-- I skipped my session in the beginning part of the day, but I do intend to play after 10:00 pm today. - 2025, Tuesday, May 27th
+- I returned to gameplay today for a second consecutive week, and had a  medium length session, playing for about 37 minutes. This was my fourth session of the year, and second/last session of the month. I played at night today. I enjoyed gameplay less this week.
+- I made a moderate amount of bux today, starting with 1,080 bux, and ending with 1,544 bux (making 464 bux in total)
+- I stayed in city 4 (Dusty Plains) today. I am increasingly considering going to the next city. I was going to do it today, but I felt like continuing with the current city longer.
+- I did not do any city upgrades today, nor did I do any epic upgrades
+- There weren't any unstable ads today that would crash the game, and the game was running correctly today, with the shop being functional this time.
+- I did not upgrade my bank today.
+- I did not buy any new planes, cars, or boats today.
+- I decided not to level up to the next city yet, although the decision is getting closer.
+- I eventually wrapped up and quit. - 2025, Tuesday, May 27th
+
+- ~~I skipped my session in the beginning part of the day, but I do intend to play after 10:00 pm today.~~
 
 ---
 
@@ -1418,10 +1428,11 @@ Shop still closed
 - My session was skipped today. - 2024, Tuesday, December 31st to 2025, Tuesday, February 25th
 - I did not do any city upgrades today, nor did I do any epic upgrades. - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
+- I did not do any city upgrades today, although I did do 1 epic upgrade, increasing the large plane bonus chance by 10% for 2,180 bux. - 2025, May 20th
 
 </details>
 
-- I did not do any city upgrades today, although I did do 1 epic upgrade, increasing the large plane bonus chance by 10% for 2,180 bux. - 2025, May 20th
+- I did not do any city upgrades today, nor did I do any epic upgrades. - 2025, Tuesday, May 27th
 
 ### Common upgrades
 
@@ -1446,7 +1457,7 @@ Shop still closed
 
 </details>
 
-- I didn't do any common upgrades today - 2025, Tuesday, May 20th
+- I didn't do any common upgrades today - 2025, Tuesday, May 20th to 2025, Tuesday, May 27th
 
 ### Epic upgrades
 
@@ -1499,10 +1510,11 @@ Shop still closed
 - My session was skipped today. - 2025, Tuesday, February 25th
 - I didn't do any epic upgrades today. - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
+- I did do 1 epic upgrade, increasing the large plane bonus chance by 10% for 2,180 bux. - 2025, Tuesday, May 20th
 
 </details>
 
-- I did do 1 epic upgrade, increasing the large plane bonus chance by 10% for 2,180 bux. - 2025, Tuesday, May 20th
+- I didn't do any epic upgrades today - 2025, Tuesday, May 27th
 
 ---
 
@@ -1532,7 +1544,7 @@ Shop still closed
 
 </details>
 
-- I did not construct any new buildings today. - 2025, Tuesday, May 20th
+- I did not construct any new buildings today. - 2025, Tuesday, May 20th to 2025, Tuesday, May 27th
 
 ---
 
@@ -1576,7 +1588,7 @@ Shop still closed
 
 </details>
 
-- I didn't buy any new cars today, as I have already unlocked all of them in the current city. - 2025, Tuesday, May 20th
+- I didn't buy any new cars today, as I have already unlocked all of them in the current city. - 2025, Tuesday, May 20th to 2025, Tuesday, May 27th
 
 ---
 
@@ -1603,7 +1615,7 @@ Shop still closed
 
 </details>
 
-- I didn't buy any boats today, as none are available in city 4 (Dusty Plains) - 2025, Tuesday, May 20th
+- I didn't buy any boats today, as none are available in city 4 (Dusty Plains) - 2025, Tuesday, May 20th to 2025, Tuesday, May 27th
 
 ---
 
@@ -1631,7 +1643,7 @@ Shop still closed
 
 </details>
 
-- I did not buy any air vehicles today, as I have already unlocked all of them in the current city. - 2025, Tuesday, May 20th
+- I did not buy any air vehicles today, as I have already unlocked all of them in the current city. - 2025, Tuesday, May 20th to 2025, Tuesday, May 27th
 
 ---
 
@@ -1721,10 +1733,11 @@ Shop still closed
 - My session was skipped today. - 2025, Tuesday, February 25th
 - I used the double time boost 1 time today. - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
+- I used the double time boost 2 times today. - 2025, Tuesday, May 20th
 
 </details>
 
-- I used the double time boost 2 times today. - 2025, Tuesday, May 20th
+- I used the double time boost 1 time today. - 2025, Tuesday, May 27th
 
 ---
 
@@ -1834,10 +1847,11 @@ Shop still closed
 - I played for 0 planck seconds today, as I skipped my session today due to a lack of time. - 2025, Tuesday, February 25th
 - I played for about 57 minutes today. - 2025, Tuesday, March 4th
 - I played for 0 planck seconds today, as I skipped my session today due to a lack of time. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
+- I played for about 86 minutes today. - 2025, Tuesday, May 20th
 
 </details>
 
-- I played for about 86 minutes today. - 2025, Tuesday, May 20th
+- I played for about 37 minutes today. - 2025, Tuesday, May 27th
 
 ---
 
@@ -1892,7 +1906,7 @@ Shop still closed
 
 </details>
 
-- I did not upgrade the bank this week, as I couldn't afford the upgrade. - 2025, Tuesday, May 20th
+- I did not upgrade the bank this week, as I couldn't afford the upgrade. - 2025, Tuesday, May 20th to 2025, Tuesday, May 27th
 
 ---
 
@@ -1900,10 +1914,10 @@ Shop still closed
 
 <details open><summary><p><b>Click/tap here to expand/collapse the purchase and value data section</b></p></summary>
 
-- **Pension total:** `649,405 bux` _(as of 2025, Tuesday, May 20th)_
+- **Pension total:** `652,259 bux` _(as of 2025, Tuesday, May 27th)_
 - **In-app purchase cost:** `$2.99`
-- **Pension value:** `$636.32` **(formula:** `649,405` **÷** `20000` **=** `32.470` **×** `19.99` **=** `649.07` **)**
-- **You save:** `$646.08` **(formula:** `649.07` **-** `2.99` **=** `646.08` **)**
+- **Pension value:** `$651.91` **(formula:** `652,259` **÷** `20000` **=** `32.612` **×** `19.99` **=** `651.91` **)**
+- **You save:** `$648.92` **(formula:** `651.91` **-** `2.99` **=** `648.92` **)**
 - **Other purchases:**
 - - **Stack of Bux**
 - - - **In-app purchase cost:** `$4.99`
@@ -1995,10 +2009,11 @@ Shop still closed
 - The pension stayed the same, as I skipped my session today. - 2025, Tuesday, February 25th
 - At the end of my session today, the pension pig held 641,621 bux. I can never empty this. - 2025, Tuesday, March 4th
 - The pension stayed the same, as I skipped my session today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
+- At the end of my session today, the pension pig held 649,405 bux. I can never empty this. - 2025, Tuesday, May 20th
 
 </details>
 
-- At the end of my session today, the pension pig held 649,405 bux. I can never empty this. - 2025, Tuesday, May 20th
+- At the end of my session today, the pension pig held 652,259 bux. I can never empty this. - 2025, Tuesday, May 27th
 
 ---
 
@@ -2028,6 +2043,6 @@ _See above._
 
 # File info
 
-**File version:** `1 (2025, Tuesday, May 27th at 02:14 pm PST)`
+**File version:** `2 (2025, Wednesday, May 28th at 04:26 pm PST)`
 
 ***
