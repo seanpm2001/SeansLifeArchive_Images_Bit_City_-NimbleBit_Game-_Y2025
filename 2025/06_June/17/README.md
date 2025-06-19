@@ -1407,7 +1407,16 @@ Shop still closed
 
 **189**
 
-- I did not play today. Gameplay is possible, and I plan to try and play after 10:00 pm tonight. - 2025, Tuesday, June 17th
+- ~~I did not play today. Gameplay is possible, and I plan to try and play after 10:00 pm tonight.~~
+- I returned to gameplay today after a 2 week pause, and had a medium length session, playing for about 41 minutes. This was my sixth session of the year, and second session of the month. I played at night today. I enjoyed gameplay slightly less this week. I was very tired during gameplay, as I played after midnight, with the session going from 12:26 am to 01:07 am. I still counted the session as 2025, June 17th, despite being played entirely on June 18th, as it was still within the same wake cycle.
+- I made a moderate amount of bux today, starting with 2,020 bux, and ending with 2,440 bux (making 420 bux in total)
+- I stayed in city 4 (Dusty Plains) today. I am increasingly considering going to the next city. I was going to do it today, but I felt like continuing with the current city longer. I didn't have much motivation or desire to go to the next city today.
+- I did not do any city upgrades today, nor did I do any epic upgrades
+- There weren't any unstable ads today that would crash the game, and the game was running correctly today, with the shop being functional this time.
+- I did not upgrade my bank today.
+- I did not buy any new planes, cars, or boats today.
+- I decided not to level up to the next city yet, although the decision is getting closer.
+- I eventually wrapped up and quit. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1459,10 +1468,11 @@ Shop still closed
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I did not do any city upgrades today, although I did do 1 epic upgrade, increasing the large plane bonus chance by 10% for 2,180 bux. - 2025, May 20th
 - I did not do any city upgrades today, nor did I do any epic upgrades. - 2025, Tuesday, May 27th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I did not do any city upgrades today, nor did I do any epic upgrades. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ### Common upgrades
 
@@ -1485,10 +1495,11 @@ Shop still closed
 - I didn't do any common upgrades today - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I didn't do any common upgrades today - 2025, Tuesday, May 20th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I didn't do any common upgrades today - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ### Epic upgrades
 
@@ -1543,10 +1554,11 @@ Shop still closed
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I did do 1 epic upgrade, increasing the large plane bonus chance by 10% for 2,180 bux. - 2025, Tuesday, May 20th
 - I didn't do any epic upgrades today - 2025, Tuesday, May 27th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I didn't do any epic upgrades today - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1574,10 +1586,11 @@ Shop still closed
 - I did not construct any new buildings today. - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I did not construct any new buildings today. - 2025, Tuesday, May 20th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I did not construct any new buildings today. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1619,10 +1632,11 @@ Shop still closed
 - I didn't buy any new cars today, as I have already unlocked all of them in the current city. - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I didn't buy any new cars today, as I have already unlocked all of them in the current city. - 2025, Tuesday, May 20th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I didn't buy any new cars today, as I have already unlocked all of them in the current city. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1647,10 +1661,11 @@ Shop still closed
 - I didn't buy any boats today, as none were available in city 4 (Dusty Plains) - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I didn't buy any boats today, as none are available in city 4 (Dusty Plains) - 2025, Tuesday, May 20th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I didn't buy any boats today, as none are available in city 4 (Dusty Plains) - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1676,10 +1691,11 @@ Shop still closed
 - I did not buy any air vehicles today, as I have already unlocked all of them in the current city. - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I did not buy any air vehicles today, as I have already unlocked all of them in the current city. - 2025, Tuesday, May 20th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I did not buy any air vehicles today, as I have already unlocked all of them in the current city. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1771,10 +1787,11 @@ Shop still closed
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I used the double time boost 2 times today. - 2025, Tuesday, May 20th
 - I used the double time boost 1 time today. - 2025, Tuesday, May 27th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I used the double time boost 1 time today. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1887,10 +1904,11 @@ Shop still closed
 - I played for about 86 minutes today. - 2025, Tuesday, May 20th
 - I played for about 37 minutes today. - 2025, Tuesday, May 27th
 - I played for about 27 minutes today. - 2025, Tuesday, June 3rd
+- I played for 0 planck seconds today, as I skipped my session today due to a lack of time. - 2025, Tuesday, June 10th
 
 </details>
 
-- I played for 0 planck seconds today, as I skipped my session today due to a lack of time. - 2025, Tuesday, June 10th
+- I played for about 41 minutes today. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1943,10 +1961,11 @@ Shop still closed
 - I did not upgrade the bank this week, as I couldn't afford the upgrade. - 2025, Tuesday, March 4th
 - My session was skipped today. - 2025, Tuesday, March 11th to 2025, Tuesday, May 13th
 - I did not upgrade the bank this week, as I couldn't afford the upgrade. - 2025, Tuesday, May 20th to 2025, Tuesday, June 3rd
+- My session was skipped today. - 2025, Tuesday, June 10th
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, June 10th
+- I did not upgrade the bank this week, as I couldn't afford the upgrade. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -1954,10 +1973,10 @@ Shop still closed
 
 <details open><summary><p><b>Click/tap here to expand/collapse the purchase and value data section</b></p></summary>
 
-- **Pension total:** `654,621 bux` _(as of 2025, Tuesday, June 3rd)_
+- **Pension total:** `657,231 bux` _(as of 2025, Tuesday, June 17th/2025, Wednesday, June 18th)_
 - **In-app purchase cost:** `$2.99`
-- **Pension value:** `$654.29` **(formula:** `654,621` **÷** `20000` **=** `32.731` **×** `19.99` **=** `654.29` **)**
-- **You save:** `$652.30` **(formula:** `654.29` **-** `2.99` **=** `652.30` **)**
+- **Pension value:** `$656.90` **(formula:** `657,231` **÷** `20000` **=** `32.861` **×** `19.99` **=** `656.90` **)**
+- **You save:** `$653.91` **(formula:** `656.90` **-** `2.99` **=** `653.91` **)**
 - **Other purchases:**
 - - **Stack of Bux**
 - - - **In-app purchase cost:** `$4.99`
@@ -2052,10 +2071,11 @@ Shop still closed
 - At the end of my session today, the pension pig held 649,405 bux. I can never empty this. - 2025, Tuesday, May 20th
 - At the end of my session today, the pension pig held 652,259 bux. I can never empty this. - 2025, Tuesday, May 27th
 - At the end of my session today, the pension pig held 654,621 bux. I can never empty this. - 2025, Tuesday, June 3rd
+- The pension stayed the same, as I skipped my session today. - 2025, Tuesday, June 10th
 
 </details>
 
-- The pension stayed the same, as I skipped my session today. - 2025, Tuesday, June 10th
+- At the end of my session today, the pension pig held 657,231 bux. I can never empty this. - 2025, Tuesday, June 17th/2025, Wednesday, June 18th
 
 ---
 
@@ -2085,6 +2105,6 @@ _See above._
 
 # File info
 
-**File version:** `1 (2025, Tuesday, June 17th at 12:14 pm PST)`
+**File version:** `2 (2025, Wednesday, June 18th at 01:30 pm PST)`
 
 ***
