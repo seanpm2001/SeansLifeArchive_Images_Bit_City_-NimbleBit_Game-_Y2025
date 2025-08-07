@@ -1472,7 +1472,8 @@ Shop still closed
 
 **196**
 
-- I did not play today. Gameplay is unlikely, unless I finish earlier tonight. - 2025, Tuesday, August 5th
+- ~~I did not play today. Gameplay is unlikely, unless I finish earlier tonight.~~
+- Gameplay was skipped today, due to a lack of an appropriate time. - 2025, Tuesday, August 5th
 
 ---
 
@@ -1531,7 +1532,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ### Common upgrades
 
@@ -1561,7 +1562,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ### Epic upgrades
 
@@ -1623,7 +1624,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -1658,7 +1659,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -1707,7 +1708,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -1739,7 +1740,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -1772,7 +1773,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -1871,7 +1872,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -1991,7 +1992,7 @@ Shop still closed
 
 </details>
 
-- I played for 0 planck seconds today, as I skipped my session today due to a lack of time. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- I played for 0 planck seconds today, as I skipped my session today due to a lack of time. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -2051,7 +2052,7 @@ Shop still closed
 
 </details>
 
-- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- My session was skipped today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -2164,7 +2165,7 @@ Shop still closed
 
 </details>
 
-- The pension stayed the same, as I skipped my session today. - 2025, Tuesday, July 8th to 2025, Tuesday, July 29th
+- The pension stayed the same, as I skipped my session today. - 2025, Tuesday, July 8th to 2025, Tuesday, August 5th
 
 ---
 
@@ -2194,6 +2195,6 @@ _See above._
 
 # File info
 
-**File version:** `1 (2025, Tuesday, August 5th at 02:53 pm PST)`
+**File version:** `2 (2025, Wednesday, August 6th at 04:36 pm PST)`
 
 ***
