@@ -1500,7 +1500,8 @@ Shop still closed
 
 **200**
 
-- I did not play today. Gameplay is unlikely, unless I finish earlier tonight. - 2025, Tuesday, September 2nd
+- ~~I did not play today. Gameplay is unlikely, unless I finish earlier tonight.~~
+- Gameplay was skipped today, due to a lack of time. - 2025, Tuesday, September 2nd
 
 ---
 
@@ -2222,6 +2223,6 @@ _See above._
 
 # File info
 
-**File version:** `1 (2025, Tuesday, September 2nd at 03:20 pm PST)`
+**File version:** `2 (2025, Wednesday, September 3rd at 05:27 pm PST)`
 
 ***
